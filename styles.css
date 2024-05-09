@@ -1,0 +1,62 @@
+/* Overall styling for the entire body of the webpage */
+body {
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9f9898;
+}
+
+/* Styling for the container holding the login form */
+.login-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    min-width: 300px;
+}
+
+/* Styling for the heading of the login form */
+.login-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* Styling for input fields of type text and password inside the login form */
+.login-container input[type="text"],
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #ccc; 
+    box-sizing: border-box;
+    outline: none; 
+}
+
+
+/* Styling for input fields of type text and password when focused */
+.login-container input[type="text"]:focus,
+.login-container input[type="password"]:focus {
+    border-bottom: 2px solid #007bff; 
+}
+
+/* Styling for the submit button inside the login form */
+.login-container input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 0px;
+    border: none;
+    border-radius: 20px;
+    background-color: #0015ff;
+    color: #fff;
+}
+
+/* Styling for the submit button when hovered */
+.login-container input[type="submit"]:hover {
+    background-color: #2b00c8;
+}
