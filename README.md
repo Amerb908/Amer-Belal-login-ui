@@ -4,7 +4,7 @@
 
 
 ### Here is the screenshot of the project:
-(https://github.com/Amerb908/Amer-Belal-login-ui/assets/85160636/a86219c1-f1e4-48d8-abfc-96915231781c)
+<img width="369" alt="Screenshot 2024-05-08 at 6 48 26 PM" src="https://github.com/Amerb908/Amer-Belal-login-ui/assets/85160636/95c715c6-3953-4165-abbc-43df885acc22">
 
 
 ### Here is the link to the webpage:
